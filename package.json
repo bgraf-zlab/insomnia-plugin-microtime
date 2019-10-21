@@ -1,0 +1,15 @@
+{
+  "name": "insomna-plugin-microtime",
+  "version": "0.1",
+  "main": "index.js",
+  
+  "insomnia": {                    
+    "name": "microtime",
+    "description": "Helper to deal with microtime content"
+  }, 
+  
+  "dependencies": {
+    "moment": "^2.21.0"
+  },
+  "devDependencies": []
+}
