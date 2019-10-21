@@ -1,6 +1,11 @@
 {
-  "name": "insomna-plugin-microtime",
-  "version": "0.1",
+  "name": "insomnia-plugin-microtime",
+  "version": "0.1.1",
+  
+  "author": "Benjamin Graf <benjamin.graf@z-lab.com>",
+  "license": "MIT",
+  "repository": "bgraf-zlab/insomnia-plugin-microtime",
+  
   "main": "index.js",
   
   "insomnia": {                    
